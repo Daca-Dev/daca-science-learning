@@ -1,0 +1,4 @@
+name: python-data-science-handbook
+channels:
+  - defaults
+prefix: C:\Users\david\anaconda3\envs\python-data-science-handbook
